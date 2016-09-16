@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lingranhuang.github.com/"/>
-  <updated>2016-09-15T15:32:37.247Z</updated>
+  <updated>2016-09-16T03:10:08.651Z</updated>
   <id>http://lingranhuang.github.com/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://lingranhuang.github.com/2016/09/16/test/"/>
+    <id>http://lingranhuang.github.com/2016/09/16/test/</id>
+    <published>2016-09-16T03:08:53.000Z</published>
+    <updated>2016-09-16T03:10:08.651Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="A-test-page"><a href="#A-test-page" class="headerlink" title="A test page.."></a>A test page..</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;A-test-page&quot;&gt;&lt;a href=&quot;#A-test-page&quot; class=&quot;headerlink&quot; title=&quot;A test page..&quot;&gt;&lt;/a&gt;A test page..&lt;/h1&gt;
+    
+    </summary>
+    
+      <category term="Test" scheme="http://lingranhuang.github.com/categories/Test/"/>
+    
+    
+      <category term="test" scheme="http://lingranhuang.github.com/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cmd file</title>
+    <link href="http://lingranhuang.github.com/2016/09/16/temp/"/>
+    <id>http://lingranhuang.github.com/2016/09/16/temp/</id>
+    <published>2016-09-15T16:00:00.000Z</published>
+    <updated>2016-09-16T03:12:16.847Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>从cmd markdown上编辑的！</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;从cmd markdown上编辑的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="Test" scheme="http://lingranhuang.github.com/categories/Test/"/>
+    
+    
+      <category term="test" scheme="http://lingranhuang.github.com/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
