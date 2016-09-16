@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lingranhuang.github.com/2016/09/16/test/</loc>
+    
+    <lastmod>2016-09-16T18:41:42.108Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lingranhuang.github.com/tags/index.html</loc>
     
     <lastmod>2016-09-16T05:01:58.467Z</lastmod>
@@ -19,27 +26,6 @@
     <loc>http://lingranhuang.github.com/about/index.html</loc>
     
     <lastmod>2016-09-16T05:01:58.465Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lingranhuang.github.com/2016/09/16/temp/</loc>
-    
-    <lastmod>2016-09-16T03:12:16.847Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lingranhuang.github.com/2016/09/16/test/</loc>
-    
-    <lastmod>2016-09-16T03:10:08.651Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lingranhuang.github.com/2016/09/15/hello-world/</loc>
-    
-    <lastmod>2016-09-15T15:32:37.247Z</lastmod>
     
   </url>
   
