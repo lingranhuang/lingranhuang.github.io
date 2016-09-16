@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lingranhuang.github.com/tags/index.html</loc>
+    
+    <lastmod>2016-09-16T05:01:58.467Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lingranhuang.github.com/categories/index.html</loc>
+    
+    <lastmod>2016-09-16T05:01:58.466Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lingranhuang.github.com/about/index.html</loc>
     
-    <lastmod>2016-09-16T03:29:08.289Z</lastmod>
+    <lastmod>2016-09-16T05:01:58.465Z</lastmod>
     
   </url>
   
