@@ -4,9 +4,9 @@
   <subtitle>return null</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lingranhuang.github.com/"/>
-  <updated>2016-09-16T18:41:42.108Z</updated>
-  <id>http://lingranhuang.github.com/</id>
+  <link href="http://lingranhuang.github.io/"/>
+  <updated>2016-09-17T08:35:02.072Z</updated>
+  <id>http://lingranhuang.github.io/</id>
   
   <author>
     <name>hunter</name>
@@ -16,26 +16,104 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://lingranhuang.github.com/2016/09/16/test/"/>
-    <id>http://lingranhuang.github.com/2016/09/16/test/</id>
-    <published>2016-09-16T03:08:53.000Z</published>
-    <updated>2016-09-16T18:41:42.108Z</updated>
+    <title>hello</title>
+    <link href="http://lingranhuang.github.io/2016/09/17/no1/"/>
+    <id>http://lingranhuang.github.io/2016/09/17/no1/</id>
+    <published>2016-09-16T16:00:00.000Z</published>
+    <updated>2016-09-17T08:35:02.072Z</updated>
     
-    <content type="html"><![CDATA[<p><code>fix me</code></p>
+    <content type="html"><![CDATA[<blockquote>
+<p>第一个副本</p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;code&gt;fix me&lt;/code&gt;&lt;/p&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;第一个副本&lt;/p&gt;
+&lt;/blockquote&gt;
 
     
     </summary>
     
-      <category term="Test" scheme="http://lingranhuang.github.com/categories/Test/"/>
+      <category term="Test" scheme="http://lingranhuang.github.io/categories/Test/"/>
     
     
-      <category term="test" scheme="http://lingranhuang.github.com/tags/test/"/>
+      <category term="test" scheme="http://lingranhuang.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://lingranhuang.github.io/2016/09/17/no3/"/>
+    <id>http://lingranhuang.github.io/2016/09/17/no3/</id>
+    <published>2016-09-16T16:00:00.000Z</published>
+    <updated>2016-09-17T08:35:48.882Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>第三个副本</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;第三个副本&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="Test" scheme="http://lingranhuang.github.io/categories/Test/"/>
+    
+    
+      <category term="tea" scheme="http://lingranhuang.github.io/tags/tea/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://lingranhuang.github.io/2016/09/17/no2/"/>
+    <id>http://lingranhuang.github.io/2016/09/17/no2/</id>
+    <published>2016-09-16T16:00:00.000Z</published>
+    <updated>2016-09-17T08:35:27.342Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>第二个副本</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;第二个副本&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="Test" scheme="http://lingranhuang.github.io/categories/Test/"/>
+    
+    
+      <category term="hunter" scheme="http://lingranhuang.github.io/tags/hunter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://lingranhuang.github.io/2016/09/17/test/"/>
+    <id>http://lingranhuang.github.io/2016/09/17/test/</id>
+    <published>2016-09-16T16:00:00.000Z</published>
+    <updated>2016-09-17T07:19:00.424Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Test" scheme="http://lingranhuang.github.io/categories/Test/"/>
+    
+    
+      <category term="test" scheme="http://lingranhuang.github.io/tags/test/"/>
     
   </entry>
   
