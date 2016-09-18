@@ -76,7 +76,7 @@ archive_generator:
 deploy:
   type: git
   repo: https://github.com/lingranhuang/lingranhuang.github.io.git
-  branch: 
+  branch: master
 
 
   #添加插件
